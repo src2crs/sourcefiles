@@ -1,0 +1,9 @@
+= Notes on Tests
+
+.Property Tests
+--
+Unit tests for the different concrete data types and functions will check
+properties that are common to everything that implements certain interfaces.
+An example would be that every tag block is also a comment block.
+There should be helper functions that check this kind of property.
+--
