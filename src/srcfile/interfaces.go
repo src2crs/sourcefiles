@@ -60,7 +60,7 @@ type File interface {
 	Name() string
 
 	// Lines returns all lines of the file.
-	Lines()
+	Lines() []Line
 
 	// String returns the text of the file.
 	String() string
