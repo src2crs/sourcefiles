@@ -1,0 +1,5 @@
+= Sourcefiles
+
+A Go package to read, write, and analyze source files.
+
+This is meant to be used for creating and grading tasks, exams etc. in programming courses.
